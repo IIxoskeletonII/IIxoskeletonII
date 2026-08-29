@@ -23,7 +23,7 @@ econometrics — and the part I care about is whether the result survives scruti
 evaluation you can trust, limitations stated before someone else finds them, and a repo
 another person can actually run.
 
-**Currently open to internships and part-time roles alongside study.**
+**Currently open to internships and job roles alongside study.**
 
 <br>
 
