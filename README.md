@@ -35,7 +35,7 @@ another person can actually run.
 <td>Review-aware hybrid search over 60K Amazon products. RRF-fused dense + BM25 retrieval in Qdrant, cross-encoder reranking, schema-enforced LLM summarisation.<br><sub><b>P@5 = 0.952 · nDCG@10 = 0.951 · 100% schema validity</b></sub></td>
 </tr>
 <tr>
-<td><b>AlgoWatch</b><br><sub>with <b>Accenture</b> · 2026</sub></td>
+<td><b><a href="https://github.com/IIxoskeletonII/AlgoWatch">AlgoWatch</a></b><br><sub>with <b>Accenture</b> · 2026</sub></td>
 <td>A Gemini-based agent auditing public-sector algorithms against the EU AI Act — ingest, evaluate, explain, remediate.<br><sub><b>2nd place of ~150 projects · ~1,500 participants</b></sub></td>
 </tr>
 <tr>
@@ -110,8 +110,8 @@ gates. Same seed and same hardware, same artefacts — otherwise a result is an 
 
 ## Education
 
-**MSc Data Science & Management** — LUISS Guido Carli, Rome · 2025 – 2027
-**BSc Management & Computer Science** — LUISS Guido Carli, Rome · 2022 – 2025 · 107/110
+**MSc Data Science & Management** — LUISS Guido Carli, Rome · 2025 – 2027<br>
+**BSc Management & Computer Science** — LUISS Guido Carli, Rome · 2022 – 2025 · 107/110<br>
 <sub>Thesis: *The Impact of Artificial Intelligence on OSINT Technologies*</sub>
 
 <sub>Cisco Cybersecurity · Celonis Build Analyses · LUISS AI Literacy</sub>
